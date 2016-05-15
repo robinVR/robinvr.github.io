@@ -1,0 +1,20 @@
+<svg   viewBox="0 0 216 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+                <defs>
+                    <path d="M50.3117241,84.3266243 L50.3117241,79.1426243 L86.7437241,62.9426243 L86.7437241,70.8626243 L62.4077241,81.7346243 L86.7437241,92.6066243 L86.7437241,100.526624 L50.3117241,84.3266243 Z M96.6317241,107.006624 L90.6557241,104.846624 L113.119724,48.9746243 L119.095724,51.2786243 L96.6317241,107.006624 Z M159.003724,79.1426243 L159.003724,84.3266243 L122.571724,100.526624 L122.571724,92.6066243 L146.907724,81.7346243 L122.571724,70.8626243 L122.571724,62.9426243 L159.003724,79.1426243 Z" id="path-1"></path>
+                </defs>
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+                    <g id="coding" sketch:type="MSLayerGroup" transform="translate(-2.000000, 0.000000)">
+                        <rect id="Rectangle-11-Copy" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="18" y="0.952472438" width="175" height="148.095055" rx="8"></rect>
+                        <rect id="Rectangle-11" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" x="25.2413793" y="31.5506243" width="160.517241" height="95" rx="8"></rect>
+                        <ellipse id="Oval-10" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="32.4827586" cy="15.4156593" rx="4.82758621" ry="4.8957043"></ellipse>
+                        <ellipse id="Oval-10-Copy" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="52.3793103" cy="15.4156593" rx="4.82758621" ry="4.8957043"></ellipse>
+                        <ellipse id="Oval-10-Copy-2" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="72.2758621" cy="15.4156593" rx="4.82758621" ry="4.8957043"></ellipse>
+                        <rect id="Rectangle-13" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" x="18" y="156" width="175" height="13" rx="8"></rect>
+                        <g id="&lt;/&gt;" stroke-width="2" stroke="#979797">
+                            <use sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                            <use xlink:href="#path-1"></use>
+                            <use xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </svg>

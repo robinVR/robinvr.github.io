@@ -1,0 +1,25 @@
+<svg viewBox="0 0 177 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>analytics</title>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="analytics" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M6.81757244,99.7983745 L22.8737769,114.920929 L47.7608939,81.4921241 L67.0283393,102.186146 L87.9014051,67.9614172 L128.041916,121.288321 L168.182428,40.1040797" id="Path-195" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M6,1.23446824 L6,163.47229" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M47,2.03058434 L47,162.676364" id="Line-Copy-10" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M88,1.23446824 L88,162.67636" id="Line-Copy-11" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M128,1.23446824 L128,161.880443" id="Line-Copy-12" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M168,1.10380702 L168,163.472289" id="Line-Copy-15" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-5" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="6.81757244" cy="99.7983745" rx="6.4224818" ry="6.36739145"></ellipse>
+            <path d="M6.81555536,40.6483129 L166.578608,40.6483129" id="Line-Copy-13" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M6.81555536,0.991422265 L166.578608,0.991422265" id="Line-Copy-18" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M6.01275524,121.944939 L166.578608,121.944939" id="Line-Copy-16" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M6.01275524,163.584674 L166.578608,163.584674" id="Line-Copy-17" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M6.01476221,82.288048 L166.576807,82.288048" id="Line-Copy-14" stroke="#979797" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-5-Copy-3" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="128.041916" cy="120.492397" rx="6.4224818" ry="6.36739145"></ellipse>
+            <ellipse id="Oval-5-Copy-4" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="168.182428" cy="40.9000036" rx="6.4224818" ry="6.36739145"></ellipse>
+            <ellipse id="Oval-5-Copy-2" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="87.9014051" cy="67.9614172" rx="6.4224818" ry="6.36739145"></ellipse>
+            <ellipse id="Oval-5-Copy" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="47.7608939" cy="81.4921241" rx="6.4224818" ry="6.36739145"></ellipse>
+        </g>
+    </g>
+</svg>
