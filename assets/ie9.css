@@ -1,0 +1,10 @@
+.primary-hp {
+  height: auto;
+}
+
+.primary-hp .row {
+  height: auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
